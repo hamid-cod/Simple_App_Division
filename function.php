@@ -148,7 +148,7 @@
 		$t .= '<center>';
 		$t .= '<form method="post" action="">';
 		$t .= '<input type="button" class="btn btn-success mr-5 mb-3" value="Corrige" id="solution">';
-		$t .= '<input type="submit" class="btn btn-info ml-5 mb-3" name="btn" value="Suivant">';
+		$t .= '<input type="submit" class="btn btn-info ml-5 mb-3" name="btn" value="Suivant" id="submit">';
 		$t .= '</form>';
 		$t .= '</center>';
 
